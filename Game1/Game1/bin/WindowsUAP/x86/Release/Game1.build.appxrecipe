@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-J0PGBFIARJV</Machine>
+    <WindowsUser>chins</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>947323b6-6c29-40cf-b930-284c6c321b7b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\api-ms-win-crt-convert-l1-1-0.dll">
+      <PackagePath>api-ms-win-crt-convert-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\api-ms-win-crt-heap-l1-1-0.dll">
+      <PackagePath>api-ms-win-crt-heap-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\api-ms-win-crt-math-l1-1-0.dll">
+      <PackagePath>api-ms-win-crt-math-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\api-ms-win-crt-runtime-l1-1-0.dll">
+      <PackagePath>api-ms-win-crt-runtime-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\api-ms-win-crt-stdio-l1-1-0.dll">
+      <PackagePath>api-ms-win-crt-stdio-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\api-ms-win-crt-string-l1-1-0.dll">
+      <PackagePath>api-ms-win-crt-string-l1-1-0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Assets\00025362.jpg">
+      <PackagePath>Assets\00025362.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\bgLayer1.xnb">
+      <PackagePath>Content\bgLayer1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\bgLayer2.xnb">
+      <PackagePath>Content\bgLayer2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\explosion.xnb">
+      <PackagePath>Content\explosion.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\gameFont.xnb">
+      <PackagePath>Content\gameFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Graphics\player.xnb">
+      <PackagePath>Content\Graphics\player.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Graphics\player2.xnb">
+      <PackagePath>Content\Graphics\player2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\mainbackground.xnb">
+      <PackagePath>Content\mainbackground.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\mine.xnb">
+      <PackagePath>Content\mine.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\mineAnimation-flip.xnb">
+      <PackagePath>Content\mineAnimation-flip.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\mineAnimation.xnb">
+      <PackagePath>Content\mineAnimation.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\player.xnb">
+      <PackagePath>Content\player.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\shipAnimation.xnb">
+      <PackagePath>Content\shipAnimation.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\shipAnimationflip-green.xnb">
+      <PackagePath>Content\shipAnimationflip-green.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Sound\explosion.xnb">
+      <PackagePath>Content\Sound\explosion.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Sound\gameMusic.wma">
+      <PackagePath>Content\Sound\gameMusic.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Sound\gameMusic.xnb">
+      <PackagePath>Content\Sound\gameMusic.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Sound\laserFire.xnb">
+      <PackagePath>Content\Sound\laserFire.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Sound\menuMusic.wma">
+      <PackagePath>Content\Sound\menuMusic.wma</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Content\Sound\menuMusic.xnb">
+      <PackagePath>Content\Sound\menuMusic.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Game1.dll">
+      <PackagePath>Game1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Game1.exe">
+      <PackagePath>Game1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\mrt100_app.dll">
+      <PackagePath>mrt100_app.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\ucrtbase.dll">
+      <PackagePath>ucrtbase.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\vcruntime140_app.dll">
+      <PackagePath>vcruntime140_app.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\0.rsrc">
+      <PackagePath>_Resources\0.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\1.rsrc">
+      <PackagePath>_Resources\1.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\2.rsrc">
+      <PackagePath>_Resources\2.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\3.rsrc">
+      <PackagePath>_Resources\3.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\4.rsrc">
+      <PackagePath>_Resources\4.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\5.rsrc">
+      <PackagePath>_Resources\5.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\6.rsrc">
+      <PackagePath>_Resources\6.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\7.rsrc">
+      <PackagePath>_Resources\7.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\8.rsrc">
+      <PackagePath>_Resources\8.rsrc</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\bin\WindowsUAP\x86\Release\ilc\_Resources\index.txt">
+      <PackagePath>_Resources\index.txt</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

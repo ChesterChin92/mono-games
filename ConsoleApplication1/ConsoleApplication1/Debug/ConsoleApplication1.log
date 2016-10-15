@@ -1,0 +1,17 @@
+﻿Build started 6/23/2015 3:48:49 PM.
+     1>Project "c:\Users\chins\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\10\References" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>ConsoleApplication1.cpp(13): warning C4305: 'argument': truncation from 'time_t (__cdecl *)(time_t *const )' to 'bool'
+     1>ConsoleApplication1.cpp(13): warning C4800: 'time_t (__cdecl *)(time_t *const )': forcing value to bool 'true' or 'false' (performance warning)
+     1>ConsoleApplication1.cpp(17): error C2679: binary '+': no operator found which takes a right-hand operand of type 'time_t (__cdecl *)(time_t *const )' (or there is no acceptable conversion)
+         ConsoleApplication1.cpp(17): note: could be 'built-in C++ operator+(volatile const System::String ^, volatile const System::String ^)'
+         ConsoleApplication1.cpp(17): note: or       'built-in C++ operator+(volatile const System::String ^, volatile const System::Object ^)'
+         ConsoleApplication1.cpp(17): note: or       'built-in C++ operator+(volatile const System::Object ^, volatile const System::String ^)'
+         ConsoleApplication1.cpp(17): note: while trying to match the argument list '(System::String ^, time_t (__cdecl *)(time_t *const ))'
+     1>Done Building Project "c:\Users\chins\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31

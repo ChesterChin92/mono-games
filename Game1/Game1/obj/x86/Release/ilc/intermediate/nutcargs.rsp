@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Release\ilc\intermediate\ILTransformed\Game1.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Release\ilc\intermediate\ILTransformed\Game1.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Release\ilc\intermediate\ILTransformed\Game1.ilexe"
+/out "C:\Users\chins\documents\visual studio 2015\Projects\Game1\Game1\obj\x86\Release\ilc\intermediate\MDIL\Game1.mdilexe"

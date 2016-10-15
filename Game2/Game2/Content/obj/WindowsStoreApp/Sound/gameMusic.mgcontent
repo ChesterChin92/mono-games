@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/chins/Documents/Visual Studio 2015/Projects/Game2/Game2/Content/Sound/gameMusic.wma</SourceFile>
+  <SourceTime>2015-05-16T21:36:02.3545327+08:00</SourceTime>
+  <DestFile>C:/Users/chins/Documents/Visual Studio 2015/Projects/Game2/Game2/Content/bin/WindowsStoreApp/Sound/gameMusic.xnb</DestFile>
+  <DestTime>2015-07-04T15:19:27.2272461+08:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2015-04-30T01:14:44+08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-30T01:14:44+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/chins/Documents/Visual Studio 2015/Projects/Game2/Game2/Content/bin/WindowsStoreApp/Sound/gameMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

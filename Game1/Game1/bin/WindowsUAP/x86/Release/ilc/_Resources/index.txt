@@ -1,0 +1,13 @@
+System.Numerics.Vectors, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  System.Numerics.Resources.Strings.resources
+System.Private.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  Internals.TraceCore.resources
+Microsoft.Diagnostics.Tracing.EventSource, Version=1.1.16.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.Diagnostics.Tracing.Messages.resources
+MonoGame.Framework, Version=3.4.0.454, Culture=neutral, PublicKeyToken=null
+  Microsoft.Xna.Framework.Graphics.Effect.Resources.AlphaTestEffect.dx11.mgfxo
+  Microsoft.Xna.Framework.Graphics.Effect.Resources.BasicEffect.dx11.mgfxo
+  Microsoft.Xna.Framework.Graphics.Effect.Resources.DualTextureEffect.dx11.mgfxo
+  Microsoft.Xna.Framework.Graphics.Effect.Resources.EnvironmentMapEffect.dx11.mgfxo
+  Microsoft.Xna.Framework.Graphics.Effect.Resources.SkinnedEffect.dx11.mgfxo
+  Microsoft.Xna.Framework.Graphics.Effect.Resources.SpriteEffect.dx11.mgfxo
